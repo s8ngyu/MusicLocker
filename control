@@ -1,0 +1,9 @@
+Package: com.peterdev.musiclocker
+Name: MusicLocker
+Depends: mobilesubstrate, me.nepeta.libnepeta
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Don't disturb me while listening to music.
+Maintainer: PeterDev <djperter@icloud.com>
+Author: PeterDev <djperter@icloud.com>
+Section: Tweaks
